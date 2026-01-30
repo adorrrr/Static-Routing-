@@ -22,12 +22,6 @@ This project was dynamic routing, this design uses **manually configured static 
 * End devices (PCs)
 
 
-## 🚀 How to Use
 
-1. Install and open **Cisco Packet Tracer**
-2. Load the file `Static Routing Network.pkt`
-3. Review IP addressing on routers and PCs
-4. Examine static route configurations on each router
-5. Use **ping** and **traceroute** to verify connectivity between different networks
 
 
