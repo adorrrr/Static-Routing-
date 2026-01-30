@@ -7,6 +7,7 @@ This project was dynamic routing, this design uses **manually configured static 
 ---
 
 <img src="https://res.cloudinary.com/dphnu6u05/image/upload/v1769786906/Static-Routing_ioecq2.png"/>
+---
 <img src="https://res.cloudinary.com/dphnu6u05/image/upload/v1769786876/Static_Routing_hkr8cp.png/>
 ---
 
